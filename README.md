@@ -21,17 +21,7 @@ A fullscreen black layout with a white circular cursor that smoothly follows the
 ##  Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
-
----
-
-## 📂 Project Structure
-custom-cursor-effect/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
+- **JavaScript (JS)**
 ---
 
 ##  How It Works
