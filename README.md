@@ -9,6 +9,12 @@ A fullscreen black layout with a white circular cursor that smoothly follows the
 
 ---
 
+## 🚀 Live Demo  
+🔗 **View Live:**  
+https://monjit-borah.github.io/interactive-cursor-ui/
+
+---
+
 ##  Features
 - Custom mouse cursor
 - Real-time mouse tracking
